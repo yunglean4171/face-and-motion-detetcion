@@ -1,6 +1,12 @@
 # Face and Motion Detection
  A face and motion detection, tracking and recording system using OpenCV. 
 
+Intsall opencv package by running this command:
+
+```
+pip install opencv-python
+```
+
 Run this code using this command
 
 ```
