@@ -2,7 +2,7 @@ import cv2
 import datetime
 
 def main():
-	faceCascade = cv2.CascadeClassifier("/Users/janglin/Desktop/py/face-motion reg/face_recognition.xml")
+	faceCascade = cv2.CascadeClassifier("face_recognition.xml")
 	# define a video capture object
 	video_capture = cv2.VideoCapture(0)
 	#writing video
